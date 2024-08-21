@@ -1,1 +1,1 @@
-#JavaScript Mini Projects
+#Masai School
